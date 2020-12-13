@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  text-transform: uppercase;
+  font-family: monospace;
+  text-align: center;
+  font-weight: 100;
+  font-size: 40px;
+  letter-spacing: 20px;
+  text-decoration: wavy underline plum;
+  white-space: nowrap;
+}
+#one {
+  background-color: red;
+  margin: 10px;
+}
+#two {
+  background-color: aquamarine;
+  margin: 10px;
+}
